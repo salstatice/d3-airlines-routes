@@ -13,4 +13,5 @@ The index.html page will be running on http://localhost:8000
 
 ## Running the server with Live Server in Visual Stuido Code
 If you have VS code, you can search for `Live Server` in the extension tab and install.
+
 To run the server, press `Ctrl + P` , then `>` (the greater than sign), and choose `Live Server`. The page will be running on http://127.0.0.1:5500/ as default.
