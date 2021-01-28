@@ -8,7 +8,7 @@ After install [python](https://www.python.org/), open a terminal, navigate to th
 ```bash
 python -m http.server
 ```
-The index.html page will be running on http://localhost:8000
+The index.html page will be running on http://0.0.0.0:8000
 
 ## Running the server with Live Server in Visual Stuido Code
 If you have VS code, you can search for `Live Server` in the extension tab and install.
