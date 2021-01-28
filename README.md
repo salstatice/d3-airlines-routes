@@ -1,8 +1,7 @@
 # D3-airlines-routes
 Interactive map showing airline routes per airline
 
-Coursera class project
-Information Visualization: Programming with D3.js
+Coursera class project - Information Visualization: Programming with D3.js
 
 ## Running the server with python
 After install [python](https://www.python.org/), open a terminal, navigate to the folder and run:
